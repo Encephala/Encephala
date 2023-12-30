@@ -6,8 +6,8 @@ I have interests in data science, programming and IT more generally.
 
 I've dabbled in various programming languages, mainly (in order of familiarity)
 <img src="https://www.svgrepo.com/show/452091/python.svg" style="width: 16px; vertical-align: middle;"> Python,
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" style="width: 16px; vertical-align: middle;"> R,
-<img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" style="width: 16px; vertical-align: middle;"> [G](https://en.wikipedia.org/wiki/LabVIEW), but also to a lesser extent
+<img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" style="width: 16px; vertical-align: middle;"> [G](https://en.wikipedia.org/wiki/LabVIEW), 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" style="width: 16px; vertical-align: middle;"> R, but also to a lesser extent
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" style="width: 16px; vertical-align: middle;"> JavaScript,
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/2560px-Original_Ferris.svg.png" style="width: 16px; vertical-align: middle;"> Rust,
 <img src="https://www.svgrepo.com/show/184143/java.svg" style="width: 16px; vertical-align: middle;"> Java,
