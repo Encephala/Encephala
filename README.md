@@ -22,7 +22,7 @@ Over the past few years I've also familiarised myself with tools like
 <img src="https://www.svgrepo.com/show/331370/docker.svg" style="width: 16px; vertical-align: middle;"> Docker/
 <img src="https://media.slid.es/uploads/1005350/images/6982390/podman.svg" style="width: 16px; vertical-align: middle;"> Podman,
 <img src="https://static-00.iconduck.com/assets.00/proxmox-icon-512x512-wdyg8x2z.png" style="width: 16px; vertical-align: middle;"> Proxmox and
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" style="width: 16px; vertical-align: middle;"> Ansible.
+<img src="https://redhat.gallerycdn.vsassets.io/extensions/redhat/ansible/2.9.118/1700737333114/Microsoft.VisualStudio.Services.Icons.Default" style="width: 16px; vertical-align: middle;"> Ansible.
 
 
 Average VS Code enjoyer.
